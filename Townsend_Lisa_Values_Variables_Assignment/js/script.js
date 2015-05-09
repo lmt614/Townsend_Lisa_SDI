@@ -4,3 +4,5 @@
 var age = 24; //Number variable
 
 var isStudent = false; //Boolean Variable
+
+var firstName = "Lisa"; 
