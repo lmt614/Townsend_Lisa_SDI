@@ -1,3 +1,6 @@
-/**
- * Created by lisatownsend on 5/9/15.
- */
+
+//JavaScript
+
+var yearborn = 1955;
+
+console.log(yearborn);
