@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ada85916-e8ef-4a8e-8ff6-2b4b4bb8ecd8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Casting/js/script.js" afterPath="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Casting/js/script.js" />
     </list>
     <ignored path="Townsend_Lisa_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Casting/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08608321">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.19368723">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -93,8 +93,8 @@
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Concatenation/index.html" />
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Concatenation/js/script.js" />
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Casting/css/style.css" />
-        <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Casting/js/script.js" />
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Casting/index.html" />
+        <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Casting/js/script.js" />
       </list>
     </option>
   </component>
@@ -581,8 +581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Casting/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08608321">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.19368723">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding />
         </state>
       </provider>
