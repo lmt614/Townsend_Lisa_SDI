@@ -1,3 +1,10 @@
 /**
- * Created by lisatownsend on 5/11/15.
+ Lisa Townsend
+ 5/11/2015
+ Section # 01
+ Expressions1
  */
+
+
+var a = 2;
+console.log(a);
