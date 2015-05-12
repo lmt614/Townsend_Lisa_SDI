@@ -5,4 +5,4 @@
  Prompt and Alert
  */
 
-prompt("Enter your yearof birth:");
+var userInput = prompt("Enter your year of birth:");
