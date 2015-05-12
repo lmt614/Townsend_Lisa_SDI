@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ada85916-e8ef-4a8e-8ff6-2b4b4bb8ecd8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/Index.html" afterPath="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/Index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/js/script.js" afterPath="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/js/script.js" />
     </list>
     <ignored path="Townsend_Lisa_SDI.iws" />
@@ -24,21 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.089153044">
+            <state vertical-scroll-proportion="-2.5">
               <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.25824964">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -85,8 +84,8 @@
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-Modulo/index.html" />
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-Modulo/js/script.js" />
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/css/style.css" />
-        <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/js/script.js" />
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/Index.html" />
+        <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/js/script.js" />
       </list>
     </option>
   </component>
@@ -98,8 +97,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="y" value="321" />
+    <option name="x" value="44" />
+    <option name="y" value="361" />
     <option name="width" value="1400" />
     <option name="height" value="794" />
   </component>
@@ -268,7 +267,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="321" width="1400" height="794" extended-state="0" />
+    <frame x="44" y="361" width="1400" height="794" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -513,18 +512,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/Index.html">
+    <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions-PEMDAS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.089153044">
-          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.25824964">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding />
         </state>
       </provider>
