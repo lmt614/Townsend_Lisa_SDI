@@ -4,3 +4,5 @@
  Section # 01
  Prompt and Alert
  */
+
+prompt("Enter your yearof birth:");
