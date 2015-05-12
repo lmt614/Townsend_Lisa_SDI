@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ada85916-e8ef-4a8e-8ff6-2b4b4bb8ecd8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/index.html" afterPath="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/index.html" />
     </list>
     <ignored path="Townsend_Lisa_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,20 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.22288261">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08608321">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
               <folding />
             </state>
@@ -96,8 +96,8 @@
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Casting/index.html" />
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Casting/js/script.js" />
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/css/style.css" />
-        <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/index.html" />
         <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/js/script.js" />
+        <option value="$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/index.html" />
       </list>
     </option>
   </component>
@@ -622,18 +622,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/index.html">
+    <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Screencast_Expressions/Expressions- Assignment Operators/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08608321">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.22288261">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
