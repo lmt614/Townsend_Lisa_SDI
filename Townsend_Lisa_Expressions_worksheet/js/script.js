@@ -44,4 +44,16 @@ var slicesPerPerson = (slicesPerPizza * pizzasOrdered) % peopleAtParty;
 //Printed out how many slices of pizza Sparky got to eat
 console.log("Sparky got " + slicesPerPerson + " slices of pizza");
 
+//Average Shopping Bill
+
+//Declared variable and listed amounts for grocery totals in an array
+var shoppingBill = [150, 200, 100, 80, 175];
+//Added totals together accessing it through index numbers.
+var total = shoppingBill[0] + shoppingBill[1] + shoppingBill[2] + shoppingBill[3] + shoppingBill[4];
+//Divided total by number of items listed which is 5
+var totalAverage = total / 5;
+//Printed out average of shopping bill
+console.log("You have spent a total of $" + total + " on groceries over 5 weeks. That is an average of $" + totalAverage + " per week");
+
+
 
