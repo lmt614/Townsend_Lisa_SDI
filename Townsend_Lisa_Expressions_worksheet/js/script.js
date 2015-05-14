@@ -15,3 +15,19 @@ const dogYears = 7;
 var dogYearAge = sparkysAge * dogYears;
 //Print out age entered and result in dog years
 console.log("Sparky is " + sparkysAge + " human years old, which is " +  dogYearAge  + " in dog years.");
+
+
+//Slice of Pie Part- 1
+
+//Declared variable, slicesPerPizza and created prompt function with a string of text.
+var slicesPerPizza = prompt("Calculating the number of slices eaten. \nEnter the amount of slices per pizza:");
+//Declared variable number of peopleAtParty and created a prompt function with a string of text.
+var peopleAtParty = prompt("Enter amount of people attending the party:");
+//Declared variable, pizzasOrdered and created a prompt function with a string of text.
+var pizzasOrdered = prompt("Enter the amount of pizza'\s ordered:");
+//Declared variable, slicesPerPerson, multiplied that by number of pizzas ordered and divided by number of people at the party
+var slicesPerPerson = slicesPerPizza * pizzasOrdered / peopleAtParty;
+//Printed out How many pieces of pizza each person ate at the party
+console.log("Each person ate " + slicesPerPerson + " slices of pizza at the party.");
+
+
