@@ -31,3 +31,16 @@ var slicesPerPerson = slicesPerPizza * pizzasOrdered / peopleAtParty;
 console.log("Each person ate " + slicesPerPerson + " slices of pizza at the party.");
 
 
+//Slice of Pie Part- 2
+
+//Reused variable from previous problem, slicesPerPizza and created prompt function with a string of text.
+var slicesPerPizza = prompt("Calculating the number of slices eaten. \nEnter the amount of slices per pizza:");
+//Reused variable number of peopleAtParty and created a prompt function with a string of text.
+var peopleAtParty = prompt("Enter amount of people attending the party:");
+//Reused variable, pizzasOrdered and created a prompt function with a string of text.
+var pizzasOrdered = prompt("Enter the amount of pizza'\s ordered:");
+//Reused variable, slicesPerPerson, multiplied that by number of pizzas ordered and used a modulo operator to get remainder
+var slicesPerPerson = (slicesPerPizza * pizzasOrdered) % peopleAtParty;
+//Printed out how many slices of pizza Sparky got to eat
+
+
