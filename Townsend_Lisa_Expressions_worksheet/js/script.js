@@ -56,4 +56,22 @@ var totalAverage = total / 5;
 console.log("You have spent a total of $" + total + " on groceries over 5 weeks. That is an average of $" + totalAverage + " per week");
 
 
+//Discounts
+
+//Created variable for item description, the original price of the item, the amount of discount and the amount of tax
+var itemDescription = "bicycle";
+var originalPrice = 79.99;
+var discount = 20;
+var salesTax = 9.25;
+
+//Turn into percents by dividing by one hundred
+var discountPercent = discount / 100;
+var salesTaxPercent = salesTax / 100;
+
+//Price of item with tax
+var totalWithTax = originalPrice - (originalPrice * discountPercent) + (originalPrice * salesTaxPercent);
+//Price of item without tax
+var totalWithoutTax = originalPrice - (originalPrice * discountPercent);
+//Printed out bicycle with original price and discount, with tax and without tax.
+console.log("Your " + itemDescription + " was originally " + originalPrice + " but after a " + discount + "% discount it is now " + totalWithoutTax + " without tax and " + totalWithTax + " with tax.");
 
