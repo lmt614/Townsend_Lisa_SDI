@@ -42,5 +42,6 @@ var pizzasOrdered = prompt("Enter the amount of pizza'\s ordered:");
 //Reused variable, slicesPerPerson, multiplied that by number of pizzas ordered and used a modulo operator to get remainder
 var slicesPerPerson = (slicesPerPizza * pizzasOrdered) % peopleAtParty;
 //Printed out how many slices of pizza Sparky got to eat
+console.log("Sparky got " + slicesPerPerson + " slices of pizza");
 
 
