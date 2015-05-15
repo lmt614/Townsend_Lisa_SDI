@@ -79,4 +79,13 @@ alert("With "+totalWorkout+" hours left to exercise, Take time to stay fit: " +w
 
  It said In a 24 hour day, after 8 hours of work, 3 hours of school and 8 hours of sleep, there are 5 hours left to exercise.
 
+
+ //Test- 2
+
+ I typed in 10 for how many hours I work a day.
+ I typed in 4 for how many hours I study a day.
+ I typed in 7 for how many hours I sleep.
+
+ It said In a 24 hour day, after 8 hours of work, 3 hours of school and 8 hours of sleep, there are 3 hours left to exercise.
+
 */
