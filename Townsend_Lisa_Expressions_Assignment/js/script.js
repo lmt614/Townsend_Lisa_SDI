@@ -4,3 +4,5 @@
  Class: Scalable Data Infrastructures # 01
  Title: Expressions Assignment
  */
+
+//Between work, school and sleep, how many hours left are there to exercise?
