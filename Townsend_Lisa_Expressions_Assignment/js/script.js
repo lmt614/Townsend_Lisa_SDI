@@ -23,3 +23,9 @@ var hoursSleep = prompt("How many hours do you sleep?");
 
 //Used a constant instead of variable because 24 hours in a day doesn't change
 const hoursInDay = 24;
+
+
+//Calculations
+
+//Added together hours worked, hours in school and hours spent sleeping a day together. Used casting because workHours, schoolHours and hours Sleep are not values, so when we add the plus symbol it thinks we are using concatenation instead of addition.
+var hoursLeftOver = Number(workHours) + Number(schoolHours) + Number(hoursSleep);
