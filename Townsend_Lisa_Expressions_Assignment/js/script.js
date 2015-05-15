@@ -27,5 +27,12 @@ const hoursInDay = 24;
 
 //Calculations
 
+//Addition
+
 //Added together hours worked, hours in school and hours spent sleeping a day together. Used casting because workHours, schoolHours and hours Sleep are not values, so when we add the plus symbol it thinks we are using concatenation instead of addition.
 var hoursLeftOver = Number(workHours) + Number(schoolHours) + Number(hoursSleep);
+
+//Subtraction
+
+//Subtracted hoursLeftOver, which would be the sum of workHours, schoolHours and hoursSleep, subtracted it from hoursInDay, which is 24.
+var totalWorkout = hoursInDay - hoursLeftOver;
