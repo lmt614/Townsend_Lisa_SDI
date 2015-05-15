@@ -51,7 +51,18 @@ console.log("In a " +hoursInDay+ " hour day, after " +workHours+ " hours of work
 alert("In a " +hoursInDay+ " hour day, after " +workHours+ " hours of work, " +schoolHours+ " hours of school and " +hoursSleep+ " hours of sleep, there are "+totalWorkout+" hours left to exercise.");
 
 
+
 //Final message to users with array
 
 //Array
 var workOut = ["Run, Hike, Dance, Box"];
+
+//Console
+
+//Printed to console, final message to users
+console.log("With "+totalWorkout+" hours left to exercise, Take time to stay fit: " +workOut+ " anything that keeps you active. \nThank you for taking time to use this calculator!");
+
+//Alert
+
+//Used alert so the user could see and it wouldn't just appear in the console
+alert("With "+totalWorkout+" hours left to exercise, Take time to stay fit: " +workOut+ " anything that keeps you active. \nThank you for taking time to use this calculator!");
