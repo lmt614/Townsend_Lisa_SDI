@@ -66,3 +66,17 @@ console.log("With "+totalWorkout+" hours left to exercise, Take time to stay fit
 
 //Used alert so the user could see and it wouldn't just appear in the console
 alert("With "+totalWorkout+" hours left to exercise, Take time to stay fit: " +workOut+ " anything that keeps you active. \nThank you for taking time to use this calculator!");
+
+
+/*
+ //Test Values
+
+ //Test- 1
+
+ I typed in 8 for how many hours I work a day.
+ I typed in 3 for how many hours I study a day.
+ I typed in 8 for how many hours I sleep.
+
+ It said In a 24 hour day, after 8 hours of work, 3 hours of school and 8 hours of sleep, there are 5 hours left to exercise.
+
+*/
