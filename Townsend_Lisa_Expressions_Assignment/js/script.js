@@ -36,3 +36,16 @@ var hoursLeftOver = Number(workHours) + Number(schoolHours) + Number(hoursSleep)
 
 //Subtracted hoursLeftOver, which would be the sum of workHours, schoolHours and hoursSleep, subtracted it from hoursInDay, which is 24.
 var totalWorkout = hoursInDay - hoursLeftOver;
+
+
+//Answer
+
+//Console
+
+//Printed out in a 24 hour day how much they had left after work, school and sleep to exercise.
+console.log("In a " +hoursInDay+ " hour day, after " +workHours+ " hours of work, " +schoolHours+ " hours of school and " +hoursSleep+ " hours of sleep, there are "+totalWorkout+" hours left to exercise.");
+
+//Alert
+
+//Also used alert so the user could see and it wouldn't just appear in the console
+alert("In a " +hoursInDay+ " hour day, after " +workHours+ " hours of work, " +schoolHours+ " hours of school and " +hoursSleep+ " hours of sleep, there are "+totalWorkout+" hours left to exercise.");
