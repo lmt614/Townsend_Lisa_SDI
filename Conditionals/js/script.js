@@ -5,3 +5,17 @@
  Title: Conditionals
  */
 
+
+
+//Conditional Logic
+
+//If a child is old enough to ride a roller coaster
+
+//Boolean variable
+
+var oldEnough = true;
+
+
+//Plan out the conditional statement
+
+//If the child is old enough, print to the console "you can ride!"
