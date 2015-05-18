@@ -33,12 +33,14 @@ if(oldEnough){
 
 //Store kid height in variable
 
-var kidHeight = 30; //Kid is 30 inches tall
+var kidHeight = 50; //height in inches
+var minHeight = 48;
 
 //If the child is old enough, print to the console "You can ride!"
-//If the kid is over 48 inches in height. If the kidHeight is > (greater than)
+//If the kid is over 48 inches in height. If the kidHeight is > (greater than) comparing variable to value
+//Compare variable with a variable kidHeight > minHeight
 
-if(kidHeight > 48){
+if(kidHeight > minHeight){
     //code performed if condition is true
     console.log("You can ride the coaster!");
 
