@@ -27,6 +27,7 @@ if(oldEnough){
 }
 */
 
+/**
 //Conditional Logic- Relational Expressions
 
 //Kids over 48 inches are able to ride roller coaster, but under 48 inches, they're not.
@@ -43,5 +44,25 @@ var minHeight = 48;
 if(kidHeight > minHeight){
     //code performed if condition is true
     console.log("You can ride the coaster!");
+}
+*/
 
+
+//Conditional Logic- With an Expression
+
+//Kids over 48 inches are able to ride roller coaster, but under 48 inches, they're not.
+
+//Store kid height in variable
+
+var kidHeight = 47; //height in inches
+var minHeight = 48;
+var sneakerLift = 2;
+
+//If the child is old enough, print to the console "You can ride!"
+//If the kid is over 48 inches in height. If the kidHeight is > (greater than) comparing variable to value
+
+
+if(kidHeight + sneakerLift > minHeight){
+    //code performed if condition is true
+    console.log("You can ride the coaster!");
 }
