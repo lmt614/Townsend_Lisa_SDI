@@ -110,6 +110,8 @@ if(kidHeight > minHeight){
 
 //Conditional Logic- Logical Operators
 
+//AND Operator
+
 var budget = 300;
 var iPhonePrice = 199.99;
 var payCheck = 200;
