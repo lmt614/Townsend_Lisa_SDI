@@ -70,7 +70,7 @@ if(kidHeight + sneakerLift > minHeight){
 
 //Conditional Logic- If and Else
 
-var kidHeight = 47;
+var kidHeight = 52;
 var minHeight = 48;
 
 
@@ -82,8 +82,9 @@ if(kidHeight > minHeight){
 }
 
 //If statement less than
-//If child is less than min height then print "Sorry, kid, you've got some growing to do first!"
+//If child is less than min height < then print "Sorry, kid, you've got some growing to do first!"
+//Changed to if it is the min height or less <=
 
-if(kidHeight < minHeight){
+if(kidHeight <= minHeight){
     console.log("Sorry kid, you've got some growing to do first!");
 }
