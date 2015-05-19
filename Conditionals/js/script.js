@@ -73,9 +73,17 @@ if(kidHeight + sneakerLift > minHeight){
 var kidHeight = 47;
 var minHeight = 48;
 
+
 //If the child is old enough, print to the console "you can ride!"
 //If the kis is over 48 inches in height
 if(kidHeight > minHeight){
     //code performed if condition is true
     console.log("You can ride the coaster!");
+}
+
+//If statement less than
+//If child is less than min height then print "Sorry, kid, you've got some growing to do first!"
+
+if(kidHeight < minHeight){
+    console.log("Sorry kid, you've got some growing to do first!");
 }
