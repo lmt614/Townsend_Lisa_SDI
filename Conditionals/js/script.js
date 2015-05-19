@@ -6,7 +6,7 @@
  */
 
 
-/**
+
 //Conditional Logic
 
 
@@ -25,9 +25,7 @@ if(oldEnough){
     //code performed if condition is true
     console.log("You can ride the coaster!");
 }
-*/
 
-/**
 //Conditional Logic- Relational Expressions
 
 //Kids over 48 inches are able to ride roller coaster, but under 48 inches, they're not.
@@ -45,9 +43,7 @@ if(kidHeight > minHeight){
     //code performed if condition is true
     console.log("You can ride the coaster!");
 }
-*/
 
-/**
 //Conditional Logic- With an Expression
 
 //Kids over 48 inches are able to ride roller coaster, but under 48 inches, they're not.
@@ -66,9 +62,9 @@ if(kidHeight + sneakerLift > minHeight){
     //code performed if condition is true
     console.log("You can ride the coaster!");
 }
-*/
 
-/**
+
+
 //Conditional Logic- If and Else
 
 var kidHeight = 52;
@@ -84,9 +80,8 @@ if(kidHeight > minHeight){
     //code performed if condition is false
     console.log("Sorry kid, you've got some growing to do first!");
 }
- */
 
-/**
+
 //Conditional Logic- Else If
 
 var kidHeight = 52;
@@ -106,12 +101,12 @@ if(kidHeight > minHeight){
     console.log("Sorry kid, you've got some growing to do first!");
 }
 
- */
+
 
 
 //Conditional Logic- Logical Operators
 
-/**
+
 //AND Operator
 
 var budget = 300;
@@ -125,7 +120,7 @@ if(iPhonePrice < budget && payCheck > 300){
 }else{
     console.log("No phone for you!!");
 }
-*/
+
 
 //OR operator
 
