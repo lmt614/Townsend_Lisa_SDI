@@ -131,7 +131,7 @@ if(iPhonePrice < budget && payCheck > 300){
 
 var budget = 300;
 var iPhonePrice = 199.99;
-var payCheck = 200;
+var wonLottery = true;
 
 //If the price of the phone is less that our budget AND if our paycheck is over 300
 //Using && both IPhone price and budget have to be true. Budget has to be greater than IPhone price AND pay check has to be greater than 300
