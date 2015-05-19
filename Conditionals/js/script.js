@@ -86,6 +86,7 @@ if(kidHeight > minHeight){
 }
  */
 
+/**
 //Conditional Logic- Else If
 
 var kidHeight = 52;
@@ -104,5 +105,13 @@ if(kidHeight > minHeight){
     //Sorry you have growing to do
     console.log("Sorry kid, you've got some growing to do first!");
 }
+
+ */
+
+//Conditional Logic- Logical Operators
+
+var budget = 300;
+var iPhonePrice = 199.99;
+var payCheck = 200;
 
 
