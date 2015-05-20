@@ -2,11 +2,11 @@
  Name: Lisa Townsend
  Date: 05/16/2015
  Class: Scalable Data Infrastructures # 01
- Title: Conditionals
+ Title: Conditionals Screencasts
  */
 
 
-
+/**
 //Conditional Logic
 
 
@@ -135,3 +135,24 @@ if(iPhonePrice < budget || wonLottery){
 }else{
     console.log("No phone for you!!");
 }
+*/
+
+
+//Ternary Operators
+
+//Conditional Statement
+var gpa = 48;
+
+//If the gpa is over the min 2.0 score, the student can graduate
+/*if(gpa > 2.0){
+    console.log("You can graduate!");
+
+}else{
+    console.log("GPA is too low");
+}*/
+
+//Shortened ternary
+
+//Condition ? do if true : do if false
+(gpa > 2.0) ? console.log("You can graduate!") : console.log("GPA is too low");
+
