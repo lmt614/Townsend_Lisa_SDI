@@ -156,3 +156,21 @@ var gpa = 48;
 //Condition ? do if true : do if false
 (gpa > 2.0) ? console.log("You can graduate!") : console.log("GPA is too low");
 
+//Second example
+//Long form
+var age = 11;
+var book;
+
+//If the child is under 10, they get Green Eggs and Ham, otherwise they get The Time Machine
+/*if(age < 10){
+    book = "Green Eggs and Ham";
+
+}else{
+    book = "The Time Machine";
+}
+console.log(book);
+*/
+
+//Short form (Ternary)
+book = (age < 10) ? "Green Eggs and Ham" : "The Time Machine";
+console.log(book);
