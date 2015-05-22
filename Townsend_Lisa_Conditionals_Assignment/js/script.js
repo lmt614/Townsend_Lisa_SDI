@@ -14,7 +14,17 @@ var userName = prompt("What is your name or choir's name?");
 
 //Prompt validation
 if(userName ===""){
- 
- //re-prompt the user
+
+ //re-prompt the user if blank
  userName = prompt("Please do not leave blank!\n How many do you have in your group?");
+}
+
+//prompting user for number of people in singing group
+var numberInGroup = prompt("How many people will be singing in your group?");
+
+//Prompt Validation
+if(numberInGroup ==="" || Number(numberInGroup) === 0){
+
+ //re-prompt the user if blank or zero
+ numberInGroup = prompt("Please do not leave blank or use zero or less!\n How many do you have in your group?");
 }
