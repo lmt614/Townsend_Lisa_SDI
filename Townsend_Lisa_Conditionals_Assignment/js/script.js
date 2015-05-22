@@ -38,3 +38,14 @@ if(emailAddress ===""){
  //re-prompt the user if blank
  emailAddress = prompt("Please do not leave blank, type in your e-mail address so that we can confirm your registration. Thank you!");
 }
+
+//prompt user asking if they need an extra ticket
+var needExtraTicket = prompt("Will you need an extra ticket for a friend or family member? Please type yes or no:");
+
+
+//Validating prompt
+if(needExtraTicket ==="") {
+
+ //re-prompt the user if blank
+ needExtraTicket = prompt("Please do not leave blank! Will you need an extra ticket?");
+}
