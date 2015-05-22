@@ -72,5 +72,8 @@ if (Number(numberInGroup) === 1) {
  //If the above are false then alert and print this message
  alert("We are sorry there can be no payment arrangements made. You will not be able to attend. Please try again when you can afford to pay. Thank you!");
  console.log("We are sorry there can be no payment arrangements made. You will not be able to attend. Please try again when you can afford to pay. Thank you!");
-
 }
+
+//Ternary Operator
+//Extra ticket price is 15 dollars * .092 + 15
+(needExtraTicket === "Yes") ? alert("You're total cost for an extra ticket will be " + extraTicketPrice * tax + extraTicketPrice + " See you soon! ") : alert("No, one should be alone.");
