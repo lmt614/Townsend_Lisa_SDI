@@ -79,3 +79,15 @@ if (Number(numberInGroup) === 1) {
 (needExtraTicket === "Yes") ? alert("You're total cost for an extra ticket will be " + extraTicketPrice * tax + extraTicketPrice + " See you soon! ") : alert("No, one should be alone.");
 
 alert("Your registration has been confirmed. Thank you!");
+
+/*
+//Test 1-
+
+ I typed in Lisa for the my name
+ I typed in 1 for number of people singing in my group
+ I typed in lisa14@gmail.com for my e-mail address
+ I typed in No for an extra ticket
+ It said "Thank you for registering Lisa you will be auditioning in room 401. Your cost will be 21.84 due upon arrival.
+ I took my calculator and added ticket price for soloist which is 20 dollars * tax which is .092= 1.84 + 20 dollars for the ticket = 21.84
+
+ */
