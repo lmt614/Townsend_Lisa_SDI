@@ -77,3 +77,5 @@ if (Number(numberInGroup) === 1) {
 //Ternary Operator
 //Extra ticket price is 15 dollars * .092 + 15
 (needExtraTicket === "Yes") ? alert("You're total cost for an extra ticket will be " + extraTicketPrice * tax + extraTicketPrice + " See you soon! ") : alert("No, one should be alone.");
+
+alert("Your registration has been confirmed. Thank you!");
