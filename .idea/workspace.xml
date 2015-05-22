@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ada85916-e8ef-4a8e-8ff6-2b4b4bb8ecd8" name="Default" comment="" />
+    <list default="true" id="ada85916-e8ef-4a8e-8ff6-2b4b4bb8ecd8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Townsend_Lisa_Conditionals_Assignment/js/script.js" afterPath="$PROJECT_DIR$/Townsend_Lisa_Conditionals_Assignment/js/script.js" />
+    </list>
     <ignored path="Townsend_Lisa_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +36,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Conditionals_Assignment/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10968921">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.27422303">
+              <caret line="9" column="97" selection-start-line="9" selection-start-column="97" selection-end-line="9" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -670,8 +672,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Townsend_Lisa_Conditionals_Assignment/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10968921">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.27422303">
+          <caret line="9" column="97" selection-start-line="9" selection-start-column="97" selection-end-line="9" selection-end-column="97" />
           <folding />
         </state>
       </provider>
