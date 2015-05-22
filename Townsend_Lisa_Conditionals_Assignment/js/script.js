@@ -28,3 +28,13 @@ if(numberInGroup ==="" || Number(numberInGroup) === 0){
  //re-prompt the user if blank or zero
  numberInGroup = prompt("Please do not leave blank or use zero or less!\n How many do you have in your group?");
 }
+
+//prompting for users email for confirmation
+var emailAddress = prompt("Please type in your e-mail address so that we can confirm your registration. Thank you!");
+
+//Prompt Validation
+if(emailAddress ===""){
+
+ //re-prompt the user if blank
+ emailAddress = prompt("Please do not leave blank, type in your e-mail address so that we can confirm your registration. Thank you!");
+}
