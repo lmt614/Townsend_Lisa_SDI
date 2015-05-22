@@ -54,3 +54,23 @@ const tax = .092;
 var ticketPriceSolo = 20 * .092 + 20; //Registration fee for soloists with tax
 var ticketPriceChoir = 30 * .092 + 30; //Registration fee for choirs with tax
 var extraTicketPrice = 15;
+
+//Conditional statement
+
+if (Number(numberInGroup) === 1) {
+
+ //if number in group is equal to 1 give this alert and print to console
+ alert("Thank you for registering " + userName + " you will be auditioning in room 401. Your cost will be " + ticketPriceSolo + " due upon arrival. ");
+ console.log("Thank you for registering " + userName + " you will be auditioning in room 401. Your cost will be " + ticketPriceSolo + " due upon arrival.");
+} else if (numberInGroup > 1) {
+
+ //if not and the group number is great than 1 alert the user with this message and print to console
+ alert("Thank you for registering " + userName + " you will be auditioning in room 412. Your cost will be " + ticketPriceChoir + " due upon arrival. ");
+ console.log("Thank you for registering " + userName + " you will be auditioning in room 412. Your cost will be " + ticketPriceChoir + " due upon arrival.");
+} else {
+
+ //If the above are false then alert and print this message
+ alert("We are sorry there can be no payment arrangements made. You will not be able to attend. Please try again when you can afford to pay. Thank you!");
+ console.log("We are sorry there can be no payment arrangements made. You will not be able to attend. Please try again when you can afford to pay. Thank you!");
+
+}
