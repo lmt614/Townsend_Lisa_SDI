@@ -49,3 +49,8 @@ if(needExtraTicket ==="") {
  //re-prompt the user if blank
  needExtraTicket = prompt("Please do not leave blank! Will you need an extra ticket?");
 }
+
+const tax = .092;
+var ticketPriceSolo = 20 * .092 + 20; //Registration fee for soloists with tax
+var ticketPriceChoir = 30 * .092 + 30; //Registration fee for choirs with tax
+var extraTicketPrice = 15;
