@@ -5,4 +5,9 @@
  Assignment Name: Screencast: Functions
  */
 
-alert("Test connection");
+//Functions -Basic Structure
+
+function outptMsg(){
+    console.log("Hello World");
+}
+
