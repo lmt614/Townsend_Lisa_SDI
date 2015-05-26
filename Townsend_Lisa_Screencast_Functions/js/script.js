@@ -11,3 +11,15 @@ function outptMsg(){
     console.log("Hello World");
 }
 
+//Second Example of a functions basic structure
+
+function calcArea(){
+    var width = 20;
+    var height = 30;
+    var area = width * height;
+    console.log(area);
+}
+
+//Run code or invoke
+
+calcArea();
