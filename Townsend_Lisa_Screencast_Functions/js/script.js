@@ -23,3 +23,5 @@ function calcArea(){
 //Run code or invoke
 
 calcArea();
+calcArea();
+calcArea();
