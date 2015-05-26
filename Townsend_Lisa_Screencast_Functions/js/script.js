@@ -5,6 +5,7 @@
  Assignment Name: Screencast: Functions
  */
 
+/**
 //Functions -Basic Structure
 
 function outptMsg(){
@@ -24,4 +25,17 @@ function calcArea(){
 
 calcArea();
 calcArea();
+calcArea();
+*/
+
+
+//Functions - Variable Scope
+
+function calcArea(){
+    var width = 20;
+    var height = 30;
+    var area = width * height;
+    console.log(area);
+}
+
 calcArea();
