@@ -71,7 +71,7 @@ dogYears(5);
 
 //Functions - Returning Values
 
-calcArea(30, 20);
+var total = calcArea(30, 20);
 
 function calcArea(w, h){
     var area = w * h;
