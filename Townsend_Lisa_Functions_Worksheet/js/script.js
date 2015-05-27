@@ -42,6 +42,10 @@ function numBeeStings(weight){
     console.log("It takes " +numBeeStings+ " bee stings to kill this animal.");
 }
 
+numBeeStings(40); //Function call- a 40lb animal
 
+/*
+ Test result: Answer = 346.66666668 for number of bee stings to kill a 40lb animal
+ */
 
 
