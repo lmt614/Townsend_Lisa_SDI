@@ -77,4 +77,4 @@ function calcArea(w, h){
     var area = w * h;
     return area; //function spitting out the info now we need to store it
 }
-console.log(area);
+console.log(total);
