@@ -5,7 +5,7 @@
  Assignment Name: Screencast: Functions
  */
 
-/**
+
 //Functions -Basic Structure
 
 function outptMsg(){
@@ -26,10 +26,10 @@ function calcArea(){
 calcArea();
 calcArea();
 calcArea();
-*/
 
 
-/**
+
+
 //Functions - Variable Scope
 
 var width = 5; //width outside the function
@@ -93,16 +93,17 @@ function calcAreaP(width, height){
     var area = width * height;
     console.log(area); //no return
 }
- */
+
 
 //Functions - Anonymous Functions
 
 //Basic setup
-//var functionName = function(){
+var functionName = function(){
     //code to run
-//}
+}
 
-//functionName();
+functionName();
+
 
 //Anonymous function with our calcArea example
 
