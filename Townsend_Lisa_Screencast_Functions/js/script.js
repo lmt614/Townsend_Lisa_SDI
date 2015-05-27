@@ -29,13 +29,27 @@ calcArea();
 */
 
 
+/**
 //Functions - Variable Scope
 
+var width = 5; //width outside the function
+
 function calcArea(){
-    var width = 20;
+    var width = 20; //width inside the function
     var height = 30;
     var area = width * height;
-    console.log(area);
+    //console.log(area); //machine chooses width inside the function- scoped to calcArea
 }
 
 calcArea();
+console.log(width); //machine chooses the width variable outside the function
+*/
+
+
+//Functions - Parameters and Arguments
+
+
+function calcArea(){
+    var area = w * h;
+    console.log(area);
+}
