@@ -48,6 +48,7 @@ console.log(width); //machine chooses the width variable outside the function
 
 //Functions - Parameters and Arguments
 
+calcArea();
 
 function calcArea(){
     var area = w * h;
