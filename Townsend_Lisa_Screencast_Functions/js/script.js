@@ -48,9 +48,10 @@ console.log(width); //machine chooses the width variable outside the function
 
 //Functions - Parameters and Arguments
 
-calcArea();
+calcArea(30, 20); //added arguments- information that we are going to send to the function
 
-function calcArea(){
+function calcArea(w, h){
+    //parenthesis above bins that will contain information- storage containers
     var area = w * h;
     console.log(area);
 }
