@@ -97,8 +97,20 @@ function calcAreaP(width, height){
 
 //Functions - Anonymous Functions
 
-var functionName = function(){
+//Basic setup
+//var functionName = function(){
     //code to run
+//}
+
+//functionName();
+
+//Anonymous function with our calcArea example
+
+var calcArea = function(width, height){
+    //code function runs
+    var area = width * height;
+    return area;
 }
 
-functionName();
+var a = calcArea(20, 30);
+console.log(a);
