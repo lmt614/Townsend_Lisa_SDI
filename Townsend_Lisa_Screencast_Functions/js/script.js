@@ -43,7 +43,7 @@ function calcArea(){
 
 calcArea();
 console.log(width); //machine chooses the width variable outside the function
-*/
+
 
 
 //Functions - Parameters and Arguments
@@ -67,3 +67,14 @@ function dogYears(age){
 var age1 = 4;
 dogYears(age1);
 dogYears(5);
+*/
+
+//Functions - Returning Values
+
+calcArea(30, 20);
+
+function calcArea(w, h){
+    var area = w * h;
+    return area; //function spitting out the info now we need to store it
+}
+console.log(area);
