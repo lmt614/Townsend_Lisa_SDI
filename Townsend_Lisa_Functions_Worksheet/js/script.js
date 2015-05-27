@@ -36,6 +36,11 @@ Test result: Answer = 43.96 for the circumference of the circle
 
 // Calculate how many bee stings are needed to kill an animal in a function
 
+function numBeeStings(weight){
+    //code the function runs
+    var numBeeStings = 8.666666667 * weight;
+    console.log("It takes " +numBeeStings+ " bee stings to kill this animal.");
+}
 
 
 
