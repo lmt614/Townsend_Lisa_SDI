@@ -30,3 +30,15 @@ while(lengthOfRoom ==="" || isNaN(lengthOfRoom)) {
 
 //Prompt user for width of room to find area
 var widthOfRoom = prompt("What is the width of your room?");
+
+
+//Validate widthOfRoom prompt with a while loop
+while(widthOfRoom ==="" || isNaN(widthOfRoom)){
+
+ //re-prompt the user if blank or else if is not a number
+ if (widthOfRoom === "") {
+  widthOfRoom = prompt("Please do not leave blank!\n What is the width of your room?");
+ }else if(isNaN(widthOfRoom)){
+  widthOfRoom = prompt("Please only use numbers! \n What is the width of your room?");
+ }
+}
