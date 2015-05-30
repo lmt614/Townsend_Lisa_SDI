@@ -93,6 +93,8 @@ console.log("Your total price without tax is $" +b+ ". \nThis is including a $3.
 
 //Total price with tax
 
+//Prompts and Validation
+
 //Prompt user for name on the order
 var name = prompt("What is the name for this order?");
 
@@ -104,3 +106,7 @@ while(name ===""){
   name = prompt("Please do not leave blank!\n What is the name for this order?");
  }
 }
+
+
+//Prompt user for e-mail address
+var emailAddress= prompt("What is your e-mail address for this order");
