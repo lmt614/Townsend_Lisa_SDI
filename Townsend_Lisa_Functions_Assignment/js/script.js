@@ -141,3 +141,11 @@ console.log("Thank you " +name+ "! \nYour total price for the amount of carpet y
 
 //Alert the user of the total price and that their confirmation email has been sent
 alert("Thank you " +name+ "! \nYour total price for the amount of carpet you need is $" +c+ " and a confirmation e-mail has been sent to " +emailAddress+ ". \nThank you for your order!");
+
+
+/*
+ Test- 1
+ I typed in 2 for the length of my room and 3 for the width and it told me the area of my room was 6 square feet and that I need 2 yards of carpet for the area of my room.
+ Next I typed in Smith for the order name and smith123@gmail.com for the email address.
+ The result it gave: Thank you Smith! Your total price for the amount of carpet you need is $31.646160000000002 and a confirmation e-mail has been sent to smith123@gmail.com. Thank you for your order!
+ */
