@@ -119,3 +119,18 @@ while(emailAddress ==="") {
   emailAddress = prompt("Please do not leave blank!\n What is the name for this order?");
  }
 }
+
+
+
+//Total Price with tax
+
+
+const tax = .092;
+
+//Total price with tax function
+function priceWithTax(withoutTax, tax){
+ //Code that function will run
+ var totalWithTax = withoutTax * tax + Number(withoutTax);
+ return totalWithTax; //return value for getting information out of the function
+
+}
