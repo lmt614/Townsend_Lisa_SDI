@@ -71,3 +71,21 @@ var convertFt = function(feet,yards){ //function parameters feet,yards
 
 var ftYd = convertFt(a,ftInYd); //function call and arguments
 alert("You need " +ftYd+ " yards of carpet."); //alert the user telling them the amount of carpet needed
+
+
+
+//Find out price of carpet
+
+
+//Total price without tax
+const price = 15.99;
+var fee = 3;
+
+function totalPrice(feetYards, price, fee){ //function with parameters feetYards, price
+ //Code that function will run
+ var totalWithoutTax = (feetYards * price) - fee;
+ return totalWithoutTax; //return value for getting information out of the function
+
+}
+var b = totalPrice(ftYd, price, fee); //function call with arguments
+console.log("Your total price without tax is $" +b+ ". \nThis is including a $3.00 fee for processing."); //print to console for testing purpose
