@@ -10,3 +10,8 @@
 
 //Alert user to explain what you are doing
 alert("Need carpet? Tell us the length and width of the room and we will tell you how much it will cost.");
+
+//Prompts and validations
+
+//Prompt user for length of room to find area
+var lengthOfRoom = prompt("What is the length of your room?");
