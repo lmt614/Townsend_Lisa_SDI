@@ -110,3 +110,12 @@ while(name ===""){
 
 //Prompt user for e-mail address
 var emailAddress= prompt("What is your e-mail address for this order");
+
+//Validate prompt for e-mail address
+while(emailAddress ==="") {
+
+ //re-prompt the user if blank
+ if (emailAddress === "") {
+  emailAddress = prompt("Please do not leave blank!\n What is the name for this order?");
+ }
+}
