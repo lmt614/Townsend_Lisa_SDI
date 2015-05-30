@@ -26,3 +26,7 @@ while(lengthOfRoom ==="" || isNaN(lengthOfRoom)) {
   lengthOfRoom = prompt("Please only use numbers! \n What is the length of your room?");
  }
 }
+
+
+//Prompt user for width of room to find area
+var widthOfRoom = prompt("What is the width of your room?");
