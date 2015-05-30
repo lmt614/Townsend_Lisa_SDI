@@ -42,3 +42,17 @@ while(widthOfRoom ==="" || isNaN(widthOfRoom)){
   widthOfRoom = prompt("Please only use numbers! \n What is the width of your room?");
  }
 }
+
+
+
+//Find area of the room to find out how much carpet is needed
+
+//Function for finding area of the room
+var findArea = function(length,width){ //length, width parameters for storing
+ //code that function will run
+ var roomArea = length * width; //length * width gives us the area of the room
+ return roomArea; //return value for getting information out of the function
+
+}
+var a = findArea(lengthOfRoom, widthOfRoom); //function call with arguments
+alert("The area of your room is " +a+ " square feet."); //alerting the user what the area of their room
