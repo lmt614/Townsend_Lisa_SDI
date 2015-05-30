@@ -15,3 +15,14 @@ alert("Need carpet? Tell us the length and width of the room and we will tell yo
 
 //Prompt user for length of room to find area
 var lengthOfRoom = prompt("What is the length of your room?");
+
+//Validate lengthOfRoom prompt
+while(lengthOfRoom ==="" || isNaN(lengthOfRoom)) {
+
+ //re-prompt the user if blank or if length is not a number
+ if (lengthOfRoom === "") {
+  lengthOfRoom = prompt("Please do not leave blank!\n What is the length of your room?");
+ } else if (isNaN(lengthOfRoom)) {
+  lengthOfRoom = prompt("Please only use numbers! \n What is the length of your room?");
+ }
+}
