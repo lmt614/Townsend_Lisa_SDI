@@ -134,3 +134,10 @@ function priceWithTax(withoutTax, tax){
  return totalWithTax; //return value for getting information out of the function
 
 }
+var c = priceWithTax(b, tax, price); //function call with arguments
+
+//Print to console the result
+console.log("Thank you " +name+ "! \nYour total price for the amount of carpet you need is $" +c+ " and a confirmation e-mail has been sent to " +emailAddress+ ". \nThank you for your order!");
+
+//Alert the user of the total price and that their confirmation email has been sent
+alert("Thank you " +name+ "! \nYour total price for the amount of carpet you need is $" +c+ " and a confirmation e-mail has been sent to " +emailAddress+ ". \nThank you for your order!");
