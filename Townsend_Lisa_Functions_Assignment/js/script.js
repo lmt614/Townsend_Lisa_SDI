@@ -56,3 +56,18 @@ var findArea = function(length,width){ //length, width parameters for storing
 }
 var a = findArea(lengthOfRoom, widthOfRoom); //function call with arguments
 alert("The area of your room is " +a+ " square feet."); //alerting the user what the area of their room
+
+
+
+//Convert feet to yards by dividing by 3
+const ftInYd = 3; //there is 3 feet in 1 yard
+
+//Function to convert feet to yards
+var convertFt = function(feet,yards){ //function parameters feet,yards
+ //Code that function will run
+ var convertFtYd = feet / yards;
+ return convertFtYd; //return the info to the main code
+};
+
+var ftYd = convertFt(a,ftInYd); //function call and arguments
+alert("You need " +ftYd+ " yards of carpet."); //alert the user telling them the amount of carpet needed
