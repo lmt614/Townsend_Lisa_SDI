@@ -89,3 +89,9 @@ function totalPrice(feetYards, price, fee){ //function with parameters feetYards
 }
 var b = totalPrice(ftYd, price, fee); //function call with arguments
 console.log("Your total price without tax is $" +b+ ". \nThis is including a $3.00 fee for processing."); //print to console for testing purpose
+
+
+//Total price with tax
+
+//Prompt user for name on the order
+var name = prompt("What is the name for this order?");
