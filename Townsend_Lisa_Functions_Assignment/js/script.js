@@ -95,3 +95,12 @@ console.log("Your total price without tax is $" +b+ ". \nThis is including a $3.
 
 //Prompt user for name on the order
 var name = prompt("What is the name for this order?");
+
+//Validate prompt for name on the order
+while(name ===""){
+
+ //re-prompt the user if blank
+ if (name === "") {
+  name = prompt("Please do not leave blank!\n What is the name for this order?");
+ }
+}
